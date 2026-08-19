@@ -119,36 +119,3 @@ Author
 Jad Milad Yazji
 
 GitHub: https://github.com/jado30
-
----
-
-### Step 5 — Scroll down
-
-At the bottom of the page you'll see **Commit changes**.
-
-You'll probably see a box saying something like:
-
-> Commit new file
-
-Leave the default message:
-
-> `Create README.md`
-
-That's perfectly fine.
-
-Then click:
-
-### **Commit changes**
-
----
-
-# Step 6 — Check that it worked
-
-Go back to the main repository page.
-
-You should now see:
-
-```text
-arabic-dialect-identification-nlp
-
-README.md
