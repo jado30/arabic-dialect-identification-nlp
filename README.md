@@ -103,8 +103,6 @@ arabic-dialect-identification-nlp/
 ├── notebooks/
 │   └── arabic_dialect_identification.ipynb
 │
-├── results/
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
